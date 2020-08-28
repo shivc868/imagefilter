@@ -1,6 +1,6 @@
 var $grid = $('.row').isotope({
   // options
-  itemSelector: '.col-md-3',
+  itemSelector: '.col-md-4',
   layoutMode: 'fitRows'
 });
 
